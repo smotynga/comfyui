@@ -17,6 +17,7 @@ NODES=(
     "https://github.com/yolain/ComfyUI-Easy-Use"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/huchenlei/ComfyUI-IC-Light-Native"
+    "https://github.com/Acly/comfyui-tooling-nodes"
 )
 
 CHECKPOINT_MODELS=(
